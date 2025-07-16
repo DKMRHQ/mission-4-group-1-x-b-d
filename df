@@ -1,0 +1,41 @@
+[33mcommit 66adea77bf1ebc227c1048bff9f7bc628c906bf1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevdassbranch[m[33m, [m[1;31morigin/devdassbranch[m[33m)[m
+Author: Dev <devdassk@missionready.com>
+Date:   Mon Jun 2 18:10:10 2025 +1200
+
+    Dockerised the project
+
+[33mcommit 5e31d74c32d5654b702e61e0a62a38409bf30577[m
+Author: Dev <devdassk@missionready.com>
+Date:   Tue May 13 17:50:41 2025 +1200
+
+    Fixed looping conversation by editing the app.tsx file
+
+[33mcommit 7633ccfdd2187c977ad5f997e4dc47d56efd4fa7[m
+Author: Dev <devdassk@missionready.com>
+Date:   Mon May 12 18:10:50 2025 +1200
+
+    Works but kind of gets confused
+
+[33mcommit 0cd04532066ad4f3623fd5e76068fd7cb574ca2e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Wed Apr 30 11:21:39 2025 +0000
+
+    add deadline
+
+[33mcommit b99c6560ebef5e17ea3b57ee24da755ed4d60375[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Wed Apr 30 11:21:36 2025 +0000
+
+    Setting up GitHub Classroom Feedback
+
+[33mcommit 2ed8ea507a0e8ac25315b561498ab66322f1a459[m[33m ([m[1;31morigin/feedback[m[33m)[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Wed Apr 30 11:21:36 2025 +0000
+
+    GitHub Classroom Feedback
+
+[33mcommit 29fd1cd0e7873864e2590cc11f092f46bd1c272a[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Apr 24 05:52:18 2025 +0000
+
+    Initial commit

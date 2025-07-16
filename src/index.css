@@ -1,0 +1,13 @@
+/* client/src/index.css */
+body, html, #root { margin: 0; height: 100%; }
+.container { display: flex; flex-direction: column; height: 100vh; max-width: 600px; margin: auto; }
+.chat-window { flex: 1; padding: 10px; overflow-y: auto; background: #f9f9f9; }
+.msg { margin: 8px 0; display: flex; align-items: baseline; }
+.msg.you { justify-content: flex-end; }
+.msg.Tina { justify-content: flex-start; }
+.msg .label { font-weight: bold; margin-right: 6px; }
+.msg.you .text { background: #dcf8c6; padding: 6px 8px; border-radius: 12px; }
+.msg.Tina .text { background: #fff; padding: 6px 8px; border-radius: 12px; }
+.input-box { display: flex; padding: 10px; border-top: 1px solid #ccc; }
+.input-box input { flex: 1; padding: 8px; font-size: 16px; }
+.input-box button { margin-left: 8px; padding: 8px 12px; }

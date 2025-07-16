@@ -1,0 +1,15 @@
+services:
+  server:
+    build: ./server
+    ports:
+      - "3001:4000"
+    volumes:
+      - ./server:/app
+    command: npm start
+
+  client:
+    build: ./client
+    ports:
+      - "80:80"
+    volumes:
+      - ./client:/app
